@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Ecole app\Ecole app\bin\Debug\Ecole app.exe.config
+C:\Users\HP\source\repos\Ecole app\Ecole app\bin\Debug\Ecole app.exe
+C:\Users\HP\source\repos\Ecole app\Ecole app\bin\Debug\Ecole app.pdb
+C:\Users\HP\source\repos\Ecole app\Ecole app\obj\Debug\Ecole app.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Ecole app\Ecole app\obj\Debug\Ecole_app.Form1.resources
+C:\Users\HP\source\repos\Ecole app\Ecole app\obj\Debug\Ecole_app.Properties.Resources.resources
+C:\Users\HP\source\repos\Ecole app\Ecole app\obj\Debug\Ecole app.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Ecole app\Ecole app\obj\Debug\Ecole app.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Ecole app\Ecole app\obj\Debug\Ecole app.exe
+C:\Users\HP\source\repos\Ecole app\Ecole app\obj\Debug\Ecole app.pdb
+C:\Users\HP\source\repos\Ecole app\Ecole app\obj\Debug\Ecole_app.ges_stagiaire.resources
